@@ -12,7 +12,6 @@ export const City = createSlice({
   },
 })
 
-// Action creators are generated for each case reducer function
 export const { setCity } = City.actions
 
 export default City.reducer
