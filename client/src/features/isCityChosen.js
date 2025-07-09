@@ -12,7 +12,6 @@ export const isCityChosen = createSlice({
   },
 })
 
-// Action creators are generated for each case reducer function
 export const { togglerCity } = isCityChosen.actions
 
 export default isCityChosen.reducer

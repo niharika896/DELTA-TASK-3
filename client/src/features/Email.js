@@ -12,8 +12,6 @@ export const Email = createSlice({
     }
   },
 })
-
-// Action creators are generated for each case reducer function
 export const { setEmail } = Email.actions
 
 export default Email.reducer

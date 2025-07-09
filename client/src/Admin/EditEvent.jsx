@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from "react";
-import Navbar from "../components/Navbar";
 import { useForm } from "react-hook-form";
 import { useNavigate } from "react-router-dom";
-import { useSelector } from "react-redux";
 import { useParams } from "react-router-dom";
 
 const cityLocationsMovie = {

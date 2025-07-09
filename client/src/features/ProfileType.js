@@ -12,7 +12,6 @@ export const Type = createSlice({
   },
 })
 
-// Action creators are generated for each case reducer function
 export const { setType } = Type.actions
 
 export default Type.reducer

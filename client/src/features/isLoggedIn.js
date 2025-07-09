@@ -11,8 +11,6 @@ export const isLoggedIn = createSlice({
     }
   },
 })
-
-// Action creators are generated for each case reducer function
 export const { toggler } = isLoggedIn.actions
 
 export default isLoggedIn.reducer

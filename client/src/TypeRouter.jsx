@@ -1,8 +1,8 @@
 import { useSelector } from "react-redux";
 import {
-  createBrowserRouter,
   createRoutesFromElements,
   Route,
+  createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
 import HomePage from "./User/HomePage.jsx";
@@ -73,10 +73,7 @@ export default function TypeRouter() {
         <Route path="/events/seatselection" element={<SeatSelection />} />
         <Route path="/pastbookings" element={<PastBookings />} />
         <Route path="/auth/vendordetails/:method" element={<VendorDetails />} />
-        <Route
-          path="/movies/seatselection/confirmation"
-          element={<ConfirmBooking />}
-        />
+        <Route path="/movies/seatselection/confirmation" element={<ConfirmBooking />}/>
       </>
     );
   }

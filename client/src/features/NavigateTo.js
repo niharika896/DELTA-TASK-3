@@ -12,7 +12,7 @@ export const NavigateTo = createSlice({
   },
 })
 
-// Action creators are generated for each case reducer function
+
 export const { setNavigateTo } = NavigateTo.actions
 
 export default NavigateTo.reducer

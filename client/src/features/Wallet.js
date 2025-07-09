@@ -12,8 +12,6 @@ export const Wallet = createSlice({
     }
   },
 })
-
-// Action creators are generated for each case reducer function
 export const { setWallet } = Wallet.actions
 
 export default Wallet.reducer

@@ -1,5 +1,5 @@
 import { configureStore } from "@reduxjs/toolkit";
-import storage from "redux-persist/lib/storage"; // defaults to localStorage
+import storage from "redux-persist/lib/storage"; // to localStorage
 import { persistStore, persistReducer, FLUSH, REHYDRATE, PAUSE, PERSIST, PURGE, REGISTER } from 'redux-persist';
 import { combineReducers } from "redux";
 
@@ -23,14 +23,12 @@ const rootReducer = combineReducers({
   vendorId
 });
 
-// Persist config
 const persistConfig = {
   key: "root",
   storage,
   blacklist:['Wallet']
 };
 
-// Create persisted reducer
 const persistedReducer = persistReducer(persistConfig, rootReducer);
 
 export const store = configureStore({
@@ -38,8 +36,7 @@ export const store = configureStore({
   middleware: (getDefaultMiddleware) =>
     getDefaultMiddleware({
       serializableCheck: {
-        // Ignore redux-persist action types that include non-serializables
-        ignoredActions: [FLUSH, REHYDRATE, PAUSE, PERSIST, PURGE, REGISTER],
+        ignoredActions: [FLUSH, REHYDRATE, PAUSE, PERSIST, REGISTER],
       },
     }),
 });
