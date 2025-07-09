@@ -3,6 +3,7 @@ import Navbar from '../components/Navbar';
 import Carousel from "../components/Carousel"
 import Movies from '../components/MoviesPosters';
 import Events from '../components/EventsPosters';
+import Chatbot from '../components/Chatbot';
 
 
 function HomePage() {
@@ -12,6 +13,8 @@ function HomePage() {
       <Carousel />
       <Movies />
       <Events/>
+      <Chatbot />
+      
       </div>
   );
 }

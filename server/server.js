@@ -28,6 +28,7 @@ import "./models/dbConnectionProfiles.js"
 import "./models/dbConnectionPosters.js"
 import "./models/dbSeatsConnection.js"
 import "./routes/MoviesRoute.js"
+import chatbot from "./routes/chatbot.js";
 dotenv.config();
 const app = express();
 const port = 4000;
@@ -64,6 +65,7 @@ app.use('/vendor/profile/updatedata',vendorUpdateRouter)
 app.use('/vendor/create-event',createEvent); 
 app.use('/vendor/info',vendorRouter);
 app.use('/get-recom',eventRecomRouter);
+app.use('/chat',chatbot);
 
 
 app.get("/",(req,res)=>{
