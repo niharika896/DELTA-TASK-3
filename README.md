@@ -485,6 +485,7 @@ This application supports real-time seat availability updates using WebSockets, 
 							<td><b><a href='https://github.com/niharika896/DELTA-TASK-3/blob/main/server/routes/AuthRoute.js'>AuthRoute.js</a></b></td>
 							<td><code>❯ Routes for Authorization</code></td> 
 						</tr>
+					</table>
  				</blockquote>
 			</details>
 								
