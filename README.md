@@ -676,7 +676,9 @@ Install DELTA-TASK-3.git using one of the following methods:
 
 2. Navigate to the project directory:
 ```sh
-❯ cd DELTA-TASK-3.git
+❯ cd TASK3
+❯ cd client
+❯ cd server
 ```
 
 3. Install the project dependencies:
@@ -696,33 +698,9 @@ Run DELTA-TASK-3.git using the following command:
 **Using `npm`** &nbsp; [<img align="center" src="https://img.shields.io/badge/npm-CB3837.svg?style={badge_style}&logo=npm&logoColor=white" />](https://www.npmjs.com/)
 
 ```sh
-❯ npm start
+❯ nodemon server.js
+❯ npm run dev
 ```
-
-
-###  Testing
-Run the test suite using the following command:
-**Using `npm`** &nbsp; [<img align="center" src="https://img.shields.io/badge/npm-CB3837.svg?style={badge_style}&logo=npm&logoColor=white" />](https://www.npmjs.com/)
-
-```sh
-❯ npm test
-```
-
-
----
-##  Project Roadmap
-
-- [X] **`Task 1`**: <strike>Implement feature one.</strike>
-- [ ] **`Task 2`**: Implement feature two.
-- [ ] **`Task 3`**: Implement feature three.
-
----
-
-##  Contributing
-
-- **💬 [Join the Discussions](https://github.com/niharika896/DELTA-TASK-3.git/discussions)**: Share your insights, provide feedback, or ask questions.
-- **🐛 [Report Issues](https://github.com/niharika896/DELTA-TASK-3.git/issues)**: Submit bugs found or log feature requests for the `DELTA-TASK-3.git` project.
-- **💡 [Submit Pull Requests](https://github.com/niharika896/DELTA-TASK-3.git/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
 
 <details closed>
 <summary>Contributing Guidelines</summary>
@@ -760,15 +738,4 @@ Run the test suite using the following command:
 </details>
 
 ---
-
-##  License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
-##  Acknowledgments
-
-- List any resources, contributors, inspiration, etc. here.
-
----
+Made with <3 by Niharika
