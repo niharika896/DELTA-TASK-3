@@ -33,8 +33,8 @@ This application supports real-time seat availability updates using WebSockets, 
 ## Features
 
 ### 🔒 User Authentication
-- Sign up / Login using Email & Password  
-- Google OAuth integration  
+- Google OAuth integration
+- Username & Password Login
 - JWT-based protected routes  
 
 ### 🎥 Movie Browsing & Booking
