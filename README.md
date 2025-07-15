@@ -582,6 +582,9 @@ This application supports real-time seat availability updates using WebSockets, 
         </table>
       </blockquote>
     </details>
+  </blockquote>
+    </details>
+    </details>
 ---
 ##  Getting Started
 
