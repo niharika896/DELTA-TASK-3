@@ -40,9 +40,10 @@ This application supports real-time seat availability updates using WebSockets, 
 ### 🎥 Movie Browsing & Booking
 - View currently running and upcoming movies  
 - Dynamic movie details, showtimes, and seat layouts  
-- Real-time seat locking using WebSockets to prevent double booking
-- Ticket PDF Generation and Emailing of Ticket using Nodemailer
-- QrCode generation for hassle-free entry
+- Real-time seat locking using WebSockets to prevent double booking  
+- Ticket PDF Generation and Emailing of Ticket using Nodemailer  
+- QR Code generation for hassle-free entry  
+- Dynamic pricing based on demand
 
 ### 🎟️ Real-Time Seat Selection
 - Live seat status updates across all users  
@@ -52,11 +53,13 @@ This application supports real-time seat availability updates using WebSockets, 
 - Upload profile picture using Multer  
 - View booking history  
 
-### 📦 Role Based Login and DashBoards
-- Add/edit movies and showtimes  
+### 📦 Role-Based Login and Dashboards
+- Add/edit movies and showtimes (Vendor/Admin)  
 - Monitor live bookings and user stats  
+- Separate dashboards for User, Vendor, and Admin  
 
-
+### 🤖 AI Chat Bot Support
+- Built-in conversational AI chatbot to assist users with booking
 ---
 
 ##  Project Structure
