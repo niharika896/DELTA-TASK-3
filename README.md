@@ -82,13 +82,6 @@ This application supports real-time seat availability updates using WebSockets, 
 <details open>
 	<summary><b><code>DELTA-TASK-3.GIT/</code></b></summary>
 	<details>
-		<summary><b>__root__</b></summary>
-		<blockquote>
-			<table>
-			</table>
-		</blockquote>
-	</details>
-	<details>
 		<summary><b>client</b></summary>
 		<blockquote>
 			<table>
@@ -490,7 +483,10 @@ This application supports real-time seat availability updates using WebSockets, 
 						</tr>
 						<tr>
 							<td><b><a href='https://github.com/niharika896/DELTA-TASK-3/blob/main/server/routes/AuthRoute.js'>AuthRoute.js</a></b></td>
-							<td><code>❯
+							<td><code>
+
+
+ 
 ---
 ##  Getting Started
 
