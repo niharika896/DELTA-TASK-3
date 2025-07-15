@@ -486,8 +486,11 @@ This application supports real-time seat availability updates using WebSockets, 
 							<td><code>❯ Routes for Authorization</code></td> 
 						</tr>
 					</table>
- 				</blockquote>
+				</blockquote>
 			</details>
+		</blockquote>
+	</details>
+</details>
 								
 ---
 ##  Getting Started
