@@ -93,7 +93,7 @@ This application supports real-time seat availability updates using WebSockets, 
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/niharika896/DELTA-TASK-3.git/blob/main/client/package-lock.json'>package-lock.json</a></b></td>
+				<td><b><a href='https://github.com/niharika896/DELTA-TASK-3/blob/main/client/package-lock.json'>package-lock.json</a></b></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/niharika896/DELTA-TASK-3.git/blob/main/client/vite.config.js'>vite.config.js</a></b></td>
