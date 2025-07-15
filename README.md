@@ -572,13 +572,7 @@ Run DELTA-TASK-3.git using the following command:
 </details>
 
 <details closed>
-<summary>Contributor Graph</summary>
 <br>
-<p align="left">
-   <a href="https://github.com{/niharika896/DELTA-TASK-3.git/}graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=niharika896/DELTA-TASK-3.git">
-   </a>
-</p>
 </details>
 
 ---
