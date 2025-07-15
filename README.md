@@ -571,7 +571,6 @@ Run DELTA-TASK-3.git using the following command:
 8. **Review**: Once your PR is reviewed and approved, it will be merged into the main branch. Congratulations on your contribution!
 </details>
 
-<details closed>
 <br>
 </details>
 
