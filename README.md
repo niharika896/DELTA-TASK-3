@@ -1,32 +1,21 @@
 <p align="center">
 </p>
-<p align="center"><h1 align="center">DELTA-TASK-3.GIT</h1></p>
+<p align="center"><h1 align="center">Take Me Anywhere</h1></p>
 <p align="center">
-	<em><code>❯ REPLACE-ME</code></em>
+	<em><code>❯ Real-Time Ticket Booking App</code></em>
 </p>
-<p align="center"><!-- default option, no dependency badges. -->
-</p>
-<p align="center">
-	<!-- default option, no dependency badges. -->
-</p>
-<br>
+<br/>
 
 ##  Table of Contents
 
 - [ Overview](#overview)
-- [ Features](#-features)
-- [ Project Structure](#-project-structure)
-  - [ Project Index](#-project-index)
-- [ Getting Started](#-getting-started)
-  - [ Prerequisites](#-prerequisites)
-  - [ Installation](#-installation)
-  - [ Usage](#-usage)
-  - [ Testing](#-testing)
-- [ Project Roadmap](#-project-roadmap)
-- [ Contributing](#-contributing)
-- [ License](#-license)
-- [ Acknowledgments](#-acknowledgments)
-
+- [ Features](#features)
+- [ Project Structure](#project-structure)
+  - [ Project Index](#project-index)
+- [ Getting Started](#getting-started)
+  - [ Prerequisites](#prerequisites)
+  - [ Installation](#installation)
+  - [ Usage](#usage)
 ---
 
 ##  Overview
@@ -37,9 +26,30 @@ This application supports real-time seat availability updates using WebSockets, 
 
 ---
 
-##  Features
+## Features
 
-<code>❯ REPLACE-ME</code>
+### 🔒 User Authentication
+- Sign up / Login using Email & Password  
+- Google OAuth integration  
+- JWT-based protected routes  
+
+### 🎥 Movie Browsing & Booking
+- View currently running and upcoming movies  
+- Dynamic movie details, showtimes, and seat layouts  
+- Real-time seat locking using WebSockets to prevent double booking  
+
+### 🎟️ Real-Time Seat Selection
+- Live seat status updates across all users  
+- Visual feedback for selected, booked, and available seats  
+
+### 👤 User Profile Management
+- Upload profile picture using Multer  
+- View booking history  
+
+### 📦 Role Based Login and DashBoards
+- Add/edit movies and showtimes  
+- Monitor live bookings and user stats  
+
 
 ---
 
@@ -83,12 +93,10 @@ This application supports real-time seat availability updates using WebSockets, 
 		<blockquote>
 			<table>
 			<tr>
-				<td><b><a href='https://github.com/niharika896/DELTA-TASK-3.git/blob/master/client/package-lock.json'>package-lock.json</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/niharika896/DELTA-TASK-3.git/client/package-lock.json'>package-lock.json</a></b></td>
 			</tr>
 			<tr>
-				<td><b><a href='https://github.com/niharika896/DELTA-TASK-3.git/blob/master/client/vite.config.js'>vite.config.js</a></b></td>
-				<td><code>❯ REPLACE-ME</code></td>
+				<td><b><a href='https://github.com/niharika896/DELTA-TASK-3.git/client/vite.config.js'>vite.config.js</a></b></td>
 			</tr>
 			<tr>
 				<td><b><a href='https://github.com/niharika896/DELTA-TASK-3.git/blob/master/client/package.json'>package.json</a></b></td>
