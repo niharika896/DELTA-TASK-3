@@ -80,14 +80,7 @@ This application supports real-time seat availability updates using WebSockets, 
 
 ###  Project Index
 <details open>
-	<summary><b><code>DELTA-TASK-3.GIT/</code></b></summary>
-	<details> <!-- __root__ Submodule -->
-		<summary><b>__root__</b></summary>
-		<blockquote>
-			<table>
-			</table>
-		</blockquote>
-	</details>
+	<summary><b><code>TASK3/</code></b></summary>
 	<details> <!-- client Submodule -->
 		<summary><b>client</b></summary>
 		<blockquote>
