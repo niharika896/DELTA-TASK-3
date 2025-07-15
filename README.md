@@ -1,6 +1,6 @@
 <p align="center">
 </p>
-<p align="center"><h1 align="center">Take Me Anywhere</h1></p>
+<p align="center"><h1 align="center"><img src="https://github.com/niharika896/DELTA-TASK-3/blob/main/client/src/assets/logo-bg.png">Take Me Anywhere</h1></p>
 <p align="center">
 	<em><code>❯ Real-Time Ticket Booking App</code></em>
 </p>
