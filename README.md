@@ -31,7 +31,10 @@
 
 ##  Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ 🎬 Ticket Booking App – Overview
+The Ticket Booking App is a full-stack, real-time movie and event ticketing platform built using the MERN stack (MongoDB, Express.js, React, Node.js). It offers a seamless and dynamic user experience for browsing shows, selecting seats, booking tickets, and managing user profiles.
+
+This application supports real-time seat availability updates using WebSockets, secure authentication with JWT and Google OAuth, and profile photo uploads with Multer. It also leverages Redux for efficient state management across the React frontend.</code>
 
 ---
 
