@@ -1,9 +1,13 @@
 <p align="center">
+  <img src="https://github.com/niharika896/DELTA-TASK-3/blob/main/client/src/assets/logo-bg.png" alt="Take Me Anywhere Logo" width="200"/>
 </p>
-<p align="center"><h1 align="center"><img src="https://github.com/niharika896/DELTA-TASK-3/blob/main/client/src/assets/logo-bg.png">Take Me Anywhere</h1></p>
+
+<h1 align="center">Take Me Anywhere</h1>
+
 <p align="center">
-	<em><code>❯ Real-Time Ticket Booking App</code></em>
+  <em><code>❯ Real-Time Ticket Booking App</code></em>
 </p>
+
 <br/>
 
 ##  Table of Contents
